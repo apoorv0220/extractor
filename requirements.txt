@@ -8,6 +8,7 @@ filelock==3.16.1
 flask==3.0.3
 Flask-Cors==5.0.0
 fsspec==2024.10.0
+gunicorn==20.1.0
 huggingface-hub==0.26.3
 idna==3.10
 importlib-metadata==8.5.0
@@ -44,6 +45,7 @@ safetensors==0.4.5
 sympy==1.13.3
 tokenizers==0.20.3
 torch==2.4.1
+torchvision==0.14.1
 tqdm==4.67.1
 transformers==4.46.3
 triton==3.0.0
